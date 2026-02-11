@@ -1,0 +1,570 @@
+{
+    "tags_mapping":
+    {
+        "c07bbh0cu1iccnqmcq00":
+        [
+            "Accommodation",
+            "Abha"
+        ],
+        "c07bbj4bb64t6si78rh0":
+        [
+            "Food & Beverage",
+            "Abha"
+        ],
+        "c07bbvvepd3oq1r122o0":
+        [
+            "Retail",
+            "Abha"
+        ],
+        "c9g7nos8hb0qun2qahmg":
+        [
+            "Religious",
+            "Abha"
+        ],
+        "c9g7o87epd3vh6lri8bg":
+        [
+            "Tourism Attractions/ Sites",
+            "Abha"
+        ],
+        "c07bdfc8hb0r13sa7afg":
+        [
+            "Accommodation",
+            "Al Ahsa"
+        ],
+        "c07bdfc8hb0r13sa7ag0":
+        [
+            "Food & Beverage",
+            "Al Ahsa"
+        ],
+        "c07bdfc8hb0r13sa7agg":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Ahsa"
+        ],
+        "c07bdfc8hb0r13sa7ah0":
+        [
+            "Retail",
+            "Al Ahsa"
+        ],
+        "c07bdfc8hb0r13sa7amg":
+        [
+            "Religious",
+            "Al Ahsa"
+        ],
+        "c07bdg8cu1iccnqmcq70":
+        [
+            "Accommodation",
+            "Al Baha"
+        ],
+        "c07bdg8cu1iccnqmcq7g":
+        [
+            "Food & Beverage",
+            "Al Baha"
+        ],
+        "c07bdg8cu1iccnqmcq8g":
+        [
+            "Retail",
+            "Al Baha"
+        ],
+        "c9g7u2k8hb0qun2qahn0":
+        [
+            "Religious",
+            "Al Baha"
+        ],
+        "c9g7u348hb0qun2qahng":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Baha"
+        ],
+        "c07bdh4bb64t6si78rpg":
+        [
+            "Accommodation",
+            "Al Ula"
+        ],
+        "c07bdh4bb64t6si78rq0":
+        [
+            "Food & Beverage",
+            "Al Ula"
+        ],
+        "c9g8l0c8hb0qun2qahqg":
+        [
+            "Religious",
+            "Al Ula"
+        ],
+        "c9g8l0k8hb0qun2qahr0":
+        [
+            "Retail",
+            "Al Ula"
+        ],
+        "c9g8l17epd3vh6lri8h0":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Ula"
+        ],
+        "c07bdifepd3oq1r122qg":
+        [
+            "Accommodation",
+            "Dammam"
+        ],
+        "c07bdifepd3oq1r122r0":
+        [
+            "Food & Beverage",
+            "Dammam"
+        ],
+        "c07bdifepd3oq1r122rg":
+        [
+            "Tourism Attractions/ Sites",
+            "Dammam"
+        ],
+        "c07bdifepd3oq1r122s0":
+        [
+            "Retail",
+            "Dammam"
+        ],
+        "c9g8cmsbb64rs4ni6rt0":
+        [
+            "Religious",
+            "Dammam"
+        ],
+        "c07bdjs8hb0r13sa7ao0":
+        [
+            "Accommodation",
+            "Hail"
+        ],
+        "c07bdjs8hb0r13sa7aog":
+        [
+            "Food & Beverage",
+            "Hail"
+        ],
+        "c07bdjs8hb0r13sa7apg":
+        [
+            "Retail",
+            "Hail"
+        ],
+        "c9g8ganepd3vh6lri8g0":
+        [
+            "Religious",
+            "Hail"
+        ],
+        "c9g8h2vepd3vh6lri8gg":
+        [
+            "Tourism Attractions/ Sites",
+            "Hail"
+        ],
+        "c07bdkkbb64t6si78s20":
+        [
+            "Accommodation",
+            "Jeddah"
+        ],
+        "c07bdkkbb64t6si78s2g":
+        [
+            "Food & Beverage",
+            "Jeddah"
+        ],
+        "c07bdkkbb64t6si78s30":
+        [
+            "Tourism Attractions/ Sites",
+            "Jeddah"
+        ],
+        "c07bdkkbb64t6si78s3g":
+        [
+            "Retail",
+            "Jeddah"
+        ],
+        "c07bdkkbb64t6si78s90":
+        [
+            "Religious",
+            "Jeddah"
+        ],
+        "c07bdlkbb64t6si78sag":
+        [
+            "Accommodation",
+            "Jizan"
+        ],
+        "c07bdlkbb64t6si78sb0":
+        [
+            "Food & Beverage",
+            "Jizan"
+        ],
+        "c9g8ihkbb64rs4ni6ru0":
+        [
+            "Religious",
+            "Jizan"
+        ],
+        "c9g8ii48hb0qun2qahq0":
+        [
+            "Retail",
+            "Jizan"
+        ],
+        "c9g8ijgcu1ielf8dr38g":
+        [
+            "Tourism Attractions/ Sites",
+            "Jizan"
+        ],
+        "c07bdmkbb64t6si78sj0":
+        [
+            "Accommodation",
+            "KAEC"
+        ],
+        "c07bdmkbb64t6si78sjg":
+        [
+            "Food & Beverage",
+            "KAEC"
+        ],
+        "c9g8qpk8hb0qun2qahrg":
+        [
+            "Religious",
+            "KAEC"
+        ],
+        "c9g8qpvepd3vh6lri8hg":
+        [
+            "Retail",
+            "KAEC"
+        ],
+        "c9g8qqc8hb0qun2qahs0":
+        [
+            "Tourism Attractions/ Sites",
+            "KAEC"
+        ],
+        "c07bdncbb64t6si78srg":
+        [
+            "Accommodation",
+            "Khobar"
+        ],
+        "c07bdncbb64t6si78ss0":
+        [
+            "Food & Beverage",
+            "Khobar"
+        ],
+        "c07bdncbb64t6si78ssg":
+        [
+            "Tourism Attractions/ Sites",
+            "Khobar"
+        ],
+        "c07bdncbb64t6si78t2g":
+        [
+            "Religious",
+            "Khobar"
+        ],
+        "c9g84qfepd3vh6lri8cg":
+        [
+            "Retail",
+            "Khobar"
+        ],
+        "c07bdofepd3oq1r123jg":
+        [
+            "Accommodation",
+            "Madinah"
+        ],
+        "c07bdofepd3oq1r123k0":
+        [
+            "Food & Beverage",
+            "Madinah"
+        ],
+        "c07bdofepd3oq1r123kg":
+        [
+            "Tourism Attractions/ Sites",
+            "Madinah"
+        ],
+        "c07bdofepd3oq1r123qg":
+        [
+            "Religious",
+            "Madinah"
+        ],
+        "c0rle7c8hb0sd7naaag0":
+        [
+            "Retail",
+            "Madinah"
+        ],
+        "c07bja4bb64t6si78uog":
+        [
+            "Accommodation",
+            "Makkah"
+        ],
+        "c07bja4bb64t6si78up0":
+        [
+            "Food & Beverage",
+            "Makkah"
+        ],
+        "c07bja4bb64t6si78upg":
+        [
+            "Tourism Attractions/ Sites",
+            "Makkah"
+        ],
+        "c07bja4bb64t6si78uvg":
+        [
+            "Religious",
+            "Makkah"
+        ],
+        "c0rlgjnepd3rmhf6n2t0":
+        [
+            "Retail",
+            "Makkah"
+        ],
+        "c07bjr48hb0r13sa7c1g":
+        [
+            "Accommodation",
+            "Tabuk"
+        ],
+        "c07bjr48hb0r13sa7c20":
+        [
+            "Food & Beverage",
+            "Tabuk"
+        ],
+        "c07bjr48hb0r13sa7c30":
+        [
+            "Retail",
+            "Tabuk"
+        ],
+        "c07bjr48hb0r13sa7c8g":
+        [
+            "Religious",
+            "Tabuk"
+        ],
+        "c9g9fck8hb0qun2qahug":
+        [
+            "Tourism Attractions/ Sites",
+            "Tabuk"
+        ],
+        "c07bjunepd3oq1r125c0":
+        [
+            "Accommodation",
+            "Taif"
+        ],
+        "c07bjunepd3oq1r125cg":
+        [
+            "Food & Beverage",
+            "Taif"
+        ],
+        "c07bjunepd3oq1r125dg":
+        [
+            "Retail",
+            "Taif"
+        ],
+        "c07bjunepd3oq1r125j0":
+        [
+            "Religious",
+            "Taif"
+        ],
+        "c0rlhqgcu1i938rekca0":
+        [
+            "Tourism Attractions/ Sites",
+            "Taif"
+        ],
+        "c07bk1c8hb0r13sa7ca0":
+        [
+            "Accommodation",
+            "Umluj"
+        ],
+        "c07bk1c8hb0r13sa7cbg":
+        [
+            "Retail",
+            "Umluj"
+        ],
+        "c9g9tg8cu1ielf8dr3e0":
+        [
+            "Food & Beverage",
+            "Umluj"
+        ],
+        "c9g9tgk8hb0qun2qai0g":
+        [
+            "Religious",
+            "Umluj"
+        ],
+        "c9g9th4bb64rs4ni6s70":
+        [
+            "Tourism Attractions/ Sites",
+            "Umluj"
+        ],
+        "c07bk44bb64t6si78v7g":
+        [
+            "Accommodation",
+            "Yanbu"
+        ],
+        "c07bk44bb64t6si78v80":
+        [
+            "Food & Beverage",
+            "Yanbu"
+        ],
+        "c07bk44bb64t6si78v90":
+        [
+            "Retail",
+            "Yanbu"
+        ],
+        "c07bk44bb64t6si78veg":
+        [
+            "Religious",
+            "Yanbu"
+        ],
+        "c9ga0skbb64rs4ni6s7g":
+        [
+            "Tourism Attractions/ Sites",
+            "Yanbu"
+        ],
+        "c07bk7fepd3oq1r125m0":
+        [
+            "Accommodation",
+            "Al Diriyah"
+        ],
+        "c9g80focu1ielf8dr37g":
+        [
+            "Food & Beverage",
+            "Al Diriyah"
+        ],
+        "c9g80gs8hb0qun2qaho0":
+        [
+            "Religious",
+            "Al Diriyah"
+        ],
+        "c9g80h48hb0qun2qahog":
+        [
+            "Retail",
+            "Al Diriyah"
+        ],
+        "c9g80m7epd3vh6lri8c0":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Diriyah"
+        ],
+        "c07bkec8hb0r13sa7crg":
+        [
+            "Accommodation",
+            "Sakaka / AlJouf"
+        ],
+        "c07bkec8hb0r13sa7cs0":
+        [
+            "Food & Beverage",
+            "Sakaka / AlJouf"
+        ],
+        "c07bkec8hb0r13sa7csg":
+        [
+            "Tourism Attractions/ Sites",
+            "Sakaka / AlJouf"
+        ],
+        "c07bkec8hb0r13sa7ct0":
+        [
+            "Retail",
+            "Sakaka / AlJouf"
+        ],
+        "c9g9clnepd3vh6lri8j0":
+        [
+            "Religious",
+            "Sakaka / AlJouf"
+        ],
+        "c0rquskbb64sdb6ukkq0":
+        [
+            "Accommodation",
+            "Riyadh"
+        ],
+        "c0rqv44bb64sdb6ukkr0":
+        [
+            "Food & Beverage",
+            "Riyadh"
+        ],
+        "c0rqv8sbb64sdb6ukks0":
+        [
+            "Tourism Attractions/ Sites",
+            "Riyadh"
+        ],
+        "c0rqvf8cu1i938rekgn0":
+        [
+            "Retail",
+            "Riyadh"
+        ],
+        "c0rqvl48hb0sd7naaepg":
+        [
+            "Religious",
+            "Riyadh"
+        ],
+        "c9g8697epd3vh6lri8d0":
+        [
+            "Food & Beverage",
+            "Al Namas"
+        ],
+        "c9g869k8hb0qun2qahp0":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Namas"
+        ],
+        "c9g87jvepd3vh6lri8e0":
+        [
+            "Food & Beverage",
+            "Al Wajh"
+        ],
+        "c9g87kfepd3vh6lri8eg":
+        [
+            "Tourism Attractions/ Sites",
+            "Al Wajh"
+        ],
+        "c9g8e7fepd3vh6lri8fg":
+        [
+            "Food & Beverage",
+            "Duba"
+        ],
+        "c9g8e7sbb64rs4ni6rtg":
+        [
+            "Tourism Attractions/ Sites",
+            "Duba"
+        ],
+        "c9g918c8hb0qun2qaht0":
+        [
+            "Accommodation",
+            "NEOM"
+        ],
+        "c9g918ocu1ielf8dr390":
+        [
+            "Food & Beverage",
+            "NEOM"
+        ],
+        "c9g9194bb64rs4ni6rug":
+        [
+            "Religious",
+            "NEOM"
+        ],
+        "c9g919nepd3vh6lri8i0":
+        [
+            "Retail",
+            "NEOM"
+        ],
+        "c9g919sbb64rs4ni6rv0":
+        [
+            "Tourism Attractions/ Sites",
+            "NEOM"
+        ],
+        "c9g97dsbb64rs4ni6rvg":
+        [
+            "Accommodation",
+            "Qassim"
+        ],
+        "c9g97f7epd3vh6lri8ig":
+        [
+            "Food & Beverage",
+            "Qassim"
+        ],
+        "c9g97fk8hb0qun2qahu0":
+        [
+            "Religious",
+            "Qassim"
+        ],
+        "c9g97g4bb64rs4ni6s00":
+        [
+            "Retail",
+            "Qassim"
+        ],
+        "c9g97ggcu1ielf8dr39g":
+        [
+            "Tourism Attractions/ Sites",
+            "Qassim"
+        ],
+        "c9g9s70cu1ielf8dr3dg":
+        [
+            "Food & Beverage",
+            "Tanomah"
+        ],
+        "c9g9s7sbb64rs4ni6s6g":
+        [
+            "Tourism Attractions/ Sites",
+            "Tanomah"
+        ]
+    }
+}
